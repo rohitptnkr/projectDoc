@@ -44,40 +44,41 @@
 \contentsline {subsection}{\numberline {6.2.2}Use Case View}{31}{subsection.6.2.2}
 \contentsline {section}{\numberline {6.3}Functional Model and Description}{32}{section.6.3}
 \contentsline {subsection}{\numberline {6.3.1}Data Flow Diagram}{32}{subsection.6.3.1}
-\contentsline {subsection}{\numberline {6.3.2}Activity Diagram:}{34}{subsection.6.3.2}
-\contentsline {subsection}{\numberline {6.3.3}Non Functional Requirements:}{34}{subsection.6.3.3}
-\contentsline {subsection}{\numberline {6.3.4}State Diagram:}{34}{subsection.6.3.4}
-\contentsline {subsection}{\numberline {6.3.5}Design Constraints}{34}{subsection.6.3.5}
-\contentsline {subsection}{\numberline {6.3.6}Software Interface Description}{34}{subsection.6.3.6}
-\contentsline {chapter}{\numberline {7}Detailed Design Document using Appendix A and B}{35}{chapter.7}
-\contentsline {section}{\numberline {7.1}Introduction}{35}{section.7.1}
-\contentsline {section}{\numberline {7.2}Architectural Design}{35}{section.7.2}
-\contentsline {section}{\numberline {7.3}Compoent Design}{35}{section.7.3}
-\contentsline {subsection}{\numberline {7.3.1}Class Diagram}{35}{subsection.7.3.1}
-\contentsline {chapter}{\numberline {8}Project Implementation}{37}{chapter.8}
-\contentsline {section}{\numberline {8.1}Introduction}{37}{section.8.1}
-\contentsline {section}{\numberline {8.2}Tools and Technologies Used}{37}{section.8.2}
-\contentsline {section}{\numberline {8.3}Methodologies/Algorithm Details}{37}{section.8.3}
-\contentsline {subsection}{\numberline {8.3.1}Algorithm 1/Pseudo Code}{37}{subsection.8.3.1}
-\contentsline {subsection}{\numberline {8.3.2}Algorithm 2/Pseudo Code}{37}{subsection.8.3.2}
-\contentsline {section}{\numberline {8.4}Verification and Validation for Acceptance}{37}{section.8.4}
-\contentsline {section}{\numberline {8.5}Reports for classifier training process: }{38}{section.8.5}
-\contentsline {chapter}{\numberline {9}Software Testing}{44}{chapter.9}
-\contentsline {section}{\numberline {9.1}Type of Testing Used}{44}{section.9.1}
-\contentsline {section}{\numberline {9.2}Test Cases and Test Results}{44}{section.9.2}
-\contentsline {chapter}{\numberline {10}Results}{45}{chapter.10}
-\contentsline {section}{\numberline {10.1}Screen shots}{45}{section.10.1}
-\contentsline {section}{\numberline {10.2}Outputs}{45}{section.10.2}
-\contentsline {chapter}{\numberline {11}Deployment and Maintenance}{46}{chapter.11}
-\contentsline {section}{\numberline {11.1}Installation and un-installation}{46}{section.11.1}
-\contentsline {section}{\numberline {11.2}User help}{46}{section.11.2}
-\contentsline {chapter}{\numberline {12}Conclusion and future scope}{47}{chapter.12}
-\contentsline {chapter}{Annexure \numberline {A}References}{48}{Annexure.1.A}
-\contentsline {chapter}{Annexure \numberline {B}Laboratory assignments on Project Analysis of Algorithmic Design}{49}{Annexure.1.B}
-\contentsline {chapter}{Annexure \numberline {C}Laboratory assignments on Project Quality and Reliability Testing of Project Design}{52}{Annexure.1.C}
-\contentsline {chapter}{Annexure \numberline {D}Project Planner}{53}{Annexure.1.D}
-\contentsline {chapter}{Annexure \numberline {E}Reviewers Comments of Paper Submitted}{54}{Annexure.1.E}
-\contentsline {chapter}{Annexure \numberline {F}Plagiarism Report}{55}{Annexure.1.F}
-\contentsline {chapter}{Annexure \numberline {G} Term-II Project Laboratory Assignments}{56}{Annexure.1.G}
-\contentsline {chapter}{Annexure \numberline {H}Information of Project Group Members}{57}{Annexure.1.H}
+\contentsline {subsection}{\numberline {6.3.2}Activity Diagram:}{33}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Non Functional Requirements:}{33}{subsection.6.3.3}
+\contentsline {subsection}{\numberline {6.3.4}State Diagram:}{33}{subsection.6.3.4}
+\contentsline {subsection}{\numberline {6.3.5}Design Constraints}{33}{subsection.6.3.5}
+\contentsline {subsection}{\numberline {6.3.6}Software Interface Description}{33}{subsection.6.3.6}
+\contentsline {chapter}{\numberline {7}Detailed Design Document using Appendix A and B}{34}{chapter.7}
+\contentsline {section}{\numberline {7.1}Introduction}{34}{section.7.1}
+\contentsline {section}{\numberline {7.2}Architectural Design}{34}{section.7.2}
+\contentsline {section}{\numberline {7.3}Compoent Design}{34}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}Class Diagram}{34}{subsection.7.3.1}
+\contentsline {chapter}{\numberline {8}Project Implementation}{36}{chapter.8}
+\contentsline {section}{\numberline {8.1}Introduction}{36}{section.8.1}
+\contentsline {section}{\numberline {8.2}Tools and Technologies Used}{36}{section.8.2}
+\contentsline {section}{\numberline {8.3}Methodologies/Algorithm Details}{36}{section.8.3}
+\contentsline {subsection}{\numberline {8.3.1}Algorithm 1/Pseudo Code}{36}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.2}Algorithm 2/Pseudo Code}{36}{subsection.8.3.2}
+\contentsline {section}{\numberline {8.4}Verification and Validation for Acceptance}{36}{section.8.4}
+\contentsline {section}{\numberline {8.5}Reports for classifier training process: }{37}{section.8.5}
+\contentsline {chapter}{\numberline {9}Software Testing}{49}{chapter.9}
+\contentsline {section}{\numberline {9.1}Type of Testing Used}{49}{section.9.1}
+\contentsline {section}{\numberline {9.2}Test Cases and Test Results}{49}{section.9.2}
+\contentsline {chapter}{\numberline {10}Results}{50}{chapter.10}
+\contentsline {section}{\numberline {10.1}Screen shots}{50}{section.10.1}
+\contentsline {section}{\numberline {10.2}Outputs}{50}{section.10.2}
+\contentsline {chapter}{\numberline {11}Deployment and Maintenance}{51}{chapter.11}
+\contentsline {section}{\numberline {11.1}Installation and un-installation}{51}{section.11.1}
+\contentsline {section}{\numberline {11.2}User help}{51}{section.11.2}
+\contentsline {chapter}{\numberline {12}Conclusion and future scope}{52}{chapter.12}
+\contentsline {chapter}{Annexure \numberline {A}References}{53}{Annexure.1.A}
+\contentsline {chapter}{Annexure \numberline {B}References}{54}{Annexure.1.B}
+\contentsline {chapter}{Annexure \numberline {C}Laboratory assignments on Project Analysis of Algorithmic Design}{55}{Annexure.1.C}
+\contentsline {chapter}{Annexure \numberline {D}Laboratory assignments on Project Quality and Reliability Testing of Project Design}{57}{Annexure.1.D}
+\contentsline {chapter}{Annexure \numberline {E}Project Planner}{58}{Annexure.1.E}
+\contentsline {chapter}{Annexure \numberline {F}Reviewers Comments of Paper Submitted}{59}{Annexure.1.F}
+\contentsline {chapter}{Annexure \numberline {G}Plagiarism Report}{60}{Annexure.1.G}
+\contentsline {chapter}{Annexure \numberline {H} Term-II Project Laboratory Assignments}{61}{Annexure.1.H}
+\contentsline {chapter}{Annexure \numberline {I}Information of Project Group Members}{62}{Annexure.1.I}
 \contentsfinish 

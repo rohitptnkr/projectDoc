@@ -1,0 +1,30 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: BE_Project_Report.aux
+The style file: unsrt.bst
+I couldn't open database file references.bib.bib
+---line 194 of file BE_Project_Report.aux
+ : \bibdata{references.bib
+ :                        }
+I'm skipping whatever remains of this command
+I found no database files---while reading file BE_Project_Report.aux
+Warning--I didn't find a database entry for "park15_implem_voice_emotion_recog_inter"
+Warning--I didn't find a database entry for "gu15_vocal_emotion_recog_log_gabor_filter"
+Warning--I didn't find a database entry for "zen14_unsup_domain_adapt_person_facial_emotion_recog"
+Warning--I didn't find a database entry for "mahmoud09_deter"
+Warning--I didn't find a database entry for "semwal17_autom"
+Warning--I didn't find a database entry for "pang15_mutlim_learn_deep_boltz_machin"
+Warning--I didn't find a database entry for "guthier14_detec_visual_emotion_affec_aware_city"
+Warning--I didn't find a database entry for "jiang17_face_detec_faster_r_cnn"
+Warning--I didn't find a database entry for "jiang17_face"
+Warning--I didn't find a database entry for "rajesh16"
+Warning--I didn't find a database entry for "shen15_sentim_nao"
+Warning--I didn't find a database entry for "bertero17_convol_neural_networ"
+Warning--I didn't find a database entry for "han14_speec_emotion_recog_using_deep"
+Warning--I didn't find a database entry for "duncan16_facial_emotion_recog_real_time"
+Warning--I didn't find a database entry for "shang15_neural_respon_machin_short_text_conver"
+Warning--I didn't find a database entry for "broekens07_emotion"
+Warning--I didn't find a database entry for "bookPressman"
+Warning--I didn't find a database entry for "ehr"
+Warning--I didn't find a database entry for "mckinsey"
+Warning--I didn't find a database entry for "mckinseyweb"
+Warning--I didn't find a database entry for "govwebsite"
+(There were 2 error messages)
