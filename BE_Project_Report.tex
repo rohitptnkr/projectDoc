@@ -292,10 +292,15 @@ where,
 		\end{itemize}
 		\vspace{4mm}
 		\item \textbf{Speech Module}\\
-		\begin{itemize}
-			\item \textbf{Function} = \{ TO DO \}
-			\item SC = \{ TO DO \}
-			\item FC = \{ TO DO  \}
+			\begin{itemize}
+			\item \textbf{Function} = \{ \textbf{transcribe()} : Takes the speech audio as input, and generates corresponding transcript.
+			\textbf{transform()} - Transforms the transcript into a feature vector of a predefined format.
+			\textbf{predict()} - Predicts the probabilities of the transcript belonging to each of the emotion labels. \}
+			\newline
+			\item \textbf{SC} = \{ Audio stream is clear enough to generate transcript properly, Stable internet connection available to access Google Speech to Text API,  Speech takes place in English language, Feature vector is not too sparse, and enough spoken words occur in the feature set to accurately discern between emotions \}
+			\newline
+			\item \textbf{FC} = \{ Too much noise in the audio stream to detect speech, Unstable internet connection preventing consistent access to Google Speech to Text API, Language other than English spoken, Feature vector generated is too sparse to accurately discern between emotions.  \}
+			\newline
 		\end{itemize}
 	\end{itemize}
 	\vspace{5mm}
@@ -831,79 +836,101 @@ The following gives the Use Case Diagram for the proposed system.
 \end{center}  
 \newpage
 
+\subsection{Class Diagram}
+\begin{center}
+	\begin{figure}[!htbp]
+		\centering
+		\includegraphics[width=450pt]{classDiagramProject.jpg}
+		\caption{Class Diagram}
+		\label{fig:class-dig}
+	\end{figure}
+\end{center} 
 
  
 \subsection{Activity Diagram:}
-\begin{itemize}
-	\item	The Activity diagram represents the steps taken.
-\end{itemize} 
+\begin{center}
+	\begin{figure}[!htbp]
+		\centering
+		\includegraphics[width=\textwidth]{activity_proj.jpg}
+		\caption{Activity Diagram}
+		\label{fig:activitydiag}
+	\end{figure}
+\end{center}  
+
+\subsection{State Diagram:}
+\begin{center}
+	\begin{figure}[!htbp]
+		\centering
+		\includegraphics[width=\textwidth]{activity_proj.jpg}
+		\caption{State Diagram}
+		\label{fig:statediag}
+	\end{figure}
+\end{center}  
 
 \subsection{Non Functional Requirements:}
 \begin{itemize}
-	\item	Interface Requirements
-	\item	Performance Requirements
-    \item	Software quality attributes such as availability [ related to Reliability], modifiability [includes portability, reusability, scalability] ,  		performance, security, testability and usability[includes self 			adaptability and user adaptability] 
+	\item The system should be near real-time.
+	\item System should be able to handle multiple computations executing simultaneously and potentially iteracting with each other
+	\item System should be able to store data to be communicated between processors
+	\item The file system should have enough space for interprocessor communication
+	\item The system will require continuous and frequent updates for the training models to improve accuracy
+	\item Proper and insightful documentation is to be maintained
 \end{itemize} 
 
-\subsection{State Diagram:}	
-  State Transition Diagram\\
-Fig.\ref{fig:state-dig} example shows the state transition diagram of Cloud SDK. The states are
-represented in ovals and state of system gets changed when certain events occur. The transitions from one state to the other are represented by arrows. The Figure    shows important states and events that occur while creating new project.
 
-\begin{center}
-	\begin{figure}[!htbp]
-		\centering
-		%\fbox{\includegraphics[width=230pt]{state-dig.jpg}}
-	  \caption{State transition diagram}
-	  \label{fig:state-dig}
-	\end{figure}
-\end{center} 
- 
- \subsection{Design Constraints}	
-Any design constraints that will impact the subsystem are noted.
- \subsection{Software Interface Description}	 
-The software interface(s)to the outside world is(are) described.
-The requirements for interfaces to other devices/systems/networks/human are stated.
-
-
-
-\chapter{Detailed Design Document using Appendix A and B}
- \section{Introduction}  
-This document specifies the design that is used to solve the problem of Product.  
 \section{Architectural Design}  
-	A description of the program architecture is presented. Subsystem design or Block diagram,Package Diagram,Deployment diagram with description is to be presented.
-
  
 \begin{center}
 	\begin{figure}[!htbp]
 		\centering
-		%\fbox{\includegraphics[width=\textwidth]{arch2.jpg}}
+		\includegraphics[width=\textwidth]{arch.jpg}
 	  \caption{Architecture diagram}
 	  \label{fig:arch-dig}
-	\end{figure}
-\end{center} 
-
-
-\section{Compoent Design} 
-Class diagrams, Interaction Diagrams, Algorithms. Description of each component description required.
-\subsection{Class Diagram}
- \begin{center}
-	\begin{figure}[!htbp]
-		\centering
-		%\fbox{\includegraphics[width=450pt]{class-dig.jpg}}
-	  \caption{Class Diagram}
-	  \label{fig:class-dig}
 	\end{figure}
 \end{center} 
  
 \chapter{Project Implementation}
   \section{Introduction}
+  
   \section{Tools and Technologies Used}
+  
   \section{Methodologies/Algorithm Details}
+
   \subsection{Algorithm 1/Pseudo Code}
-  \subsection{Algorithm 2/Pseudo Code}
-  \section{Verification and Validation for Acceptance}
-  \newpage
+  \begin{verbatim}
+  initialize videoWeight = 1
+  initialize toneWeight = 1
+  initialize speechWeight = 1
+  
+  initialize and start video subprocess
+  initialize and start audioRecorder subprocess
+  initialize and start tone subprocess 
+  initialize and start speech subprocess
+  
+  Repeat till exit:
+  
+  If new videoProbabilities are predicted:
+  		sendToGraph(videoProbs)
+  		videoWeight = 1
+  else:
+  		decrease videoWeight by linear function
+  
+  If new toneProbabilities are predicted:
+  		sendToGraph(toneProbs)
+  		toneWeight = 1
+  else:
+  		decrease toneWeight by linear function
+  
+  If new speechProbabilities are predicted:
+  		sendToGraph(speechProbs)
+  		speechWeight = 1
+  else:
+  		decrease speechWeight by linear function
+  		
+  TODO: DESCRIPTION
+  \end{verbatim}
+ 
+  
   \section{Reports for classifier training process: }
 	\begin{itemize}
 		\item \textbf{Tone Analysis: }
@@ -1214,18 +1241,20 @@ Class diagrams, Interaction Diagrams, Algorithms. Description of each component 
 	\item \textbf{Text Analysis: }
 	
 	\begin{itemize}
-		\item
+			\item \textbf{DataSet used:} \newline
+		\hspace{15mm}The Interactive Emotional Dyadic Motion Capture (IEMOCAP) database is an acted, multimodal and multispeaker database. It contains approximately 12 hours of audiovisual data, including video, speech, motion capture of face, text transcriptions. It consists of dyadic sessions where actors perform improvisations or scripted scenarios, specifically selected to elicit emotional expressions. IEMOCAP database is annotated by multiple annotators into categorical labels, such as anger, happiness, sadness, neutrality, as well as dimensional labels such as valence, activation and dominance. The detailed motion capture information, the interactive setting to elicit authentic emotions, and the size of the database make this corpus a valuable addition to the existing databases in the community for the study and modeling of multimodal and expressive human communication. For speech analysis, we use the transcripts of utterances having the same label by atleast 2 human annotaters.
+			
+			\vspace{5mm}
+				\item \textbf{TONE UTTERANCES AFTER COMBINING:}
+			Refer to figure \ref{tone-utter-after}. To balance the dataset, we combined emotions with similar annotations:
+			\begin{itemize}
+				\item 	ang fru 2952
+				\item happ exc sur 1743
+				\item neutral 1708
+				\item sadness fear 1124
+			\end{itemize}
 		
-		\begin{center}
-			\begin{figure}[!htbp]
-				\centering
-				\includegraphics[width=\textwidth]{text-convergence.png}
-				\caption{Text Convergence}
-				\label{fig:text-convergence}
-			\end{figure}
-		\end{center} 
-		
-		\begin{center}
+			\begin{center}
 			\begin{figure}[!htbp]
 				\centering
 				\includegraphics[width=\textwidth]{text-utterance-after-combining.png}
@@ -1233,6 +1262,49 @@ Class diagrams, Interaction Diagrams, Algorithms. Description of each component 
 				\label{fig:text-uttr-after-comb}
 			\end{figure}
 		\end{center} 
+		
+		\item \textbf{Training and Validation Report:}
+		Refer to figures \ref{fig:text-convergence} and \ref{fig:text-confusion-matrix}
+		\begin{verbatim}
+		Iteration 1, loss = 1.36541914
+		Validation score: 0.537838
+		Iteration 2, loss = 1.26958823
+		Validation score: 0.559459
+		Iteration 3, loss = 1.13363359
+		Validation score: 0.572973
+		Iteration 4, loss = 0.96703096
+		Validation score: 0.602703
+		Iteration 5, loss = 0.81985095
+		Validation score: 0.629730
+		Iteration 6, loss = 0.70764039
+		Validation score: 0.632432
+		Iteration 7, loss = 0.62687694
+		Validation score: 0.637838
+		Iteration 8, loss = 0.56570615
+		Validation score: 0.645946
+		Iteration 9, loss = 0.51973502
+		Validation score: 0.654054
+		Iteration 10, loss = 0.48257364
+		Validation score: 0.651351
+		Iteration 11, loss = 0.45411557
+		Validation score: 0.651351
+		Iteration 12, loss = 0.42749150
+		Validation score: 0.643243
+		Validation score did not improve more than tol=0.000100 for two consecutive epochs. Stopping.
+		[[102  31  42  25]
+		[ 23 137  25  15]
+		[ 29  24 132  15]
+		[ 25  23  17 135]]
+	\end{verbatim}
+		\begin{center}
+			\begin{figure}[!htbp]
+				\centering
+				\includegraphics[width=\textwidth]{text-convergence.png}
+				\caption{Text Learning Curve}
+				\label{fig:text-convergence}
+			\end{figure}
+		\end{center} 
+		
 		
 		\begin{center}
 			\begin{figure}[!htbp]
@@ -1263,9 +1335,158 @@ Outputs / Snap shots of the results
 
     Outputs / Snap shots of the results
 \chapter{Deployment and Maintenance}
-     \section{Installation and un-installation}
-     \section{User help}
-     
+    \section{INSTALLATION:}
+    \begin{itemize}
+    
+    
+    \item Ensure you have Python 3.6 installed on a 64-bit Linux distro.
+    
+    \item You will need a Google cloud API key for converting speech to 
+    text. Get one from : \begin{verbatim}https://cloud.google.com/docs/authentication/api-keys#creating_an_api_key \end{verbatim}
+    
+     \item A brief description about the project structure:
+     \begin{itemize}
+     	 \item envDoc : Contains all configuration files and dependencies.
+     	 \item realTimeModules : Contains implementations of each individual module and also a main process to spawn subprocesses for each module.
+     	 \item static : Contains static code for Flask webapp (mostly JavaScript scripts for real time rendering on webpage). 
+     	 \item templates: Contains HTML webpages for client to view.
+     	 \item flask-live-chart.py : The Flask webapp.
+     	 
+     	 \item realTimeModules/config.json : Config file to set configurable parameters. See the file comments for all the parameters which can be configured.
+     \end{itemize}
+   
+    \textbf{Project Structure:}
+    \begin{verbatim}
+    EmoRecWebInterface 
+    ├── envDoc 
+    │   ├── env-conda-spec-file.txt 
+    │   └── env-pip-packages.txt 
+    ├── flask-live-chart.py 
+    ├── picklesForInterface 
+    │   └── pickleFile 
+    ├── README.md 
+    ├── realTimeModules 
+    │   ├── audioRecorder 
+    │   │   ├── alsa_error.py 
+    │   │   ├── audioRecorder.py 
+    │   │   ├── channel_index.py 
+    │   │   ├── __init__.py 
+    │   │   ├── __pycache__ 
+    │   │   │   ├── alsa_error.cpython-35.pyc 
+    │   │   │   ├── audioRecorder.cpython-35.pyc 
+    │   │   │   ├── channel_index.cpython-35.pyc 
+    │   │   │   └── __init__.cpython-35.pyc 
+    │   │   └── test 
+    │   ├── main.py 
+    │   ├── speech 
+    │   │   ├── api_key.json 
+    │   │   ├── __init__.py 
+    │   │   ├── __pycache__ 
+    │   │   │   ├── __init__.cpython-35.pyc 
+    │   │   │   └── speech.cpython-35.pyc 
+    │   │   ├── savefile 
+    │   │   ├── speech.py 
+    │   │   └── transcriptions.tsv 
+    │   ├── tone 
+    │   │   ├── dnnParameters.sav 
+    │   │   ├── energy.py 
+    │   │   ├── featureExtraction.py 
+    │   │   ├── __init__.py 
+    │   │   ├── __pycache__ 
+    │   │   │   ├── energy.cpython-35.pyc 
+    │   │   │   ├── featureExtraction.cpython-35.pyc 
+    │   │   │   ├── __init__.cpython-35.pyc 
+    │   │   │   └── tone.cpython-35.pyc 
+    │   │   ├── scalerParameters.sav 
+    │   │   ├── test 
+    │   │   └── tone.py 
+    │   └── video 
+    │       ├── EmoRecogFacial.pkl 
+    │       ├── haarcascade_frontalface_alt2.xml 
+    │       ├── haarcascade_frontalface_alt_tree.xml 
+    │       ├── haarcascade_frontalface_alt.xml 
+    │       ├── haarcascade_frontalface_default.xml 
+    │       ├── __init__.py 
+    │       ├── __pycache__ 
+    │       │   ├── __init__.cpython-35.pyc 
+    │       │   └── video.cpython-35.pyc 
+    │       ├── shape_predictor_68_face_landmarks.dat 
+    │       ├── test 
+    │       │   └── videoplayback.mp4 
+    │       └── video.py 
+    ├── static 
+    │   ├── js 
+    │   │   ├── dashboard.js 
+    │   │   └── videoScript.js 
+    │   └── video.png 
+    ├── templates 
+    │   ├── index.html 
+    │   └── live-data.html 
+    └── testVideos 
+    ├── audiotionExcitementFrustrationFear.mp4 
+    ├── audiotionSpanish.mp4 
+    ├── auditionExcited.mp4 
+    ├── auditionHappy.mp4
+    
+    \end{verbatim}
+    
+    \vspace{10mm}
+    \textbf{Install dependencies:}
+    \begin{itemize}
+    	
+    
+    \item statsmodels 8.0  :\\
+    Python module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration. An extensive list of result statistics are available for each estimator. 
+    \newline
+    \item pip 9.0.3:\\
+    To install python packages.
+    \newline
+    \item Flask 12.2:\\
+    Flask is a micro web framework written in Python, used for hosting the web server.
+    \newline
+    \item scikit-learn 19.1:\\
+    Machine learning library used for training and predicting. 
+    \newline
+    \item google-auth 1.4.1 : \\
+    Used for authenticating Google API key.
+    \newline
+    \item google-api-core 1.1.2:\\
+    Dependency for google-cloud.
+    \newline
+    \item google-cloud-speech 34.0:\\
+    Used for convering speech to text transcripts.
+    \newline
+	\item matplotlib 2.0:\\
+    Used for plotting and visualizing data locally on the server.
+    \newline
+    \item numpy 1.14.2:\\
+    Used for processing data vectors.
+    \newline
+    \item pandas 22.0:\\
+    Used for quick data analysis.
+    \newline
+    \item python-speech-features 6.0:\\
+    Used by text module.
+    \newline
+    \item Optionally, you can create a virtual environment using the spec file given in /envDoc.\\
+    
+	\end{itemize}
+\vspace{10mm}
+    \textbf{DEPLOYMENT : }
+    \begin{itemize}
+    	\item Clone the repository's master branch from https://github.com/EmoRecog/EmoRecWebInterface.git
+    	\newline
+    	\item Switch to appropriate virtual environment with dependencies installed.
+    	\newline
+    	\item Run realTimeModules/main.py to start all 3 subprocesses.
+    	\newline
+    	\item Run flask-live-chart.py to start Flask server.
+    	\newline
+    	\item You can now access the interface at <IP>:5000 (5000 is the default port).
+    	\newline
+    \end{itemize}   
+    
+   \end{itemize} 
  \chapter{Conclusion and future scope}
 Write  summary , conclusion and future scope
  {}
