@@ -1,0 +1,29 @@
+Iteration 1, loss = 1.36541914
+Validation score: 0.537838
+Iteration 2, loss = 1.26958823
+Validation score: 0.559459
+Iteration 3, loss = 1.13363359
+Validation score: 0.572973
+Iteration 4, loss = 0.96703096
+Validation score: 0.602703
+Iteration 5, loss = 0.81985095
+Validation score: 0.629730
+Iteration 6, loss = 0.70764039
+Validation score: 0.632432
+Iteration 7, loss = 0.62687694
+Validation score: 0.637838
+Iteration 8, loss = 0.56570615
+Validation score: 0.645946
+Iteration 9, loss = 0.51973502
+Validation score: 0.654054
+Iteration 10, loss = 0.48257364
+Validation score: 0.651351
+Iteration 11, loss = 0.45411557
+Validation score: 0.651351
+Iteration 12, loss = 0.42749150
+Validation score: 0.643243
+Validation score did not improve more than tol=0.000100 for two consecutive epochs. Stopping.
+[[102  31  42  25]
+ [ 23 137  25  15]
+ [ 29  24 132  15]
+ [ 25  23  17 135]]

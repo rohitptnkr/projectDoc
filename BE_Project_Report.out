@@ -1,0 +1,80 @@
+\BOOKMARK [0][-]{chapter.1}{Synopsis}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Project Statement}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Scope of the Problem}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Goals and Objectives}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.4}{Relevant mathematics associated with the Project}{chapter.1}% 5
+\BOOKMARK [0][-]{chapter.2}{Technical Keywords}{}% 6
+\BOOKMARK [1][-]{section.2.1}{Area of Project}{chapter.2}% 7
+\BOOKMARK [1][-]{section.2.2}{Technical Keywords}{chapter.2}% 8
+\BOOKMARK [0][-]{chapter.3}{Introduction}{}% 9
+\BOOKMARK [1][-]{section.3.1}{Project Idea}{chapter.3}% 10
+\BOOKMARK [1][-]{section.3.2}{Motivation of the Project}{chapter.3}% 11
+\BOOKMARK [1][-]{section.3.3}{Literature Survey}{chapter.3}% 12
+\BOOKMARK [0][-]{chapter.4}{Problem Definition and scope}{}% 13
+\BOOKMARK [1][-]{section.4.1}{Problem Statement}{chapter.4}% 14
+\BOOKMARK [1][-]{section.4.2}{Statement of scope}{chapter.4}% 15
+\BOOKMARK [1][-]{section.4.3}{Major Constraints}{chapter.4}% 16
+\BOOKMARK [1][-]{section.4.4}{Methodologies of Problem solving and efficiency issues}{chapter.4}% 17
+\BOOKMARK [1][-]{section.4.5}{Outcome}{chapter.4}% 18
+\BOOKMARK [1][-]{section.4.6}{Applications}{chapter.4}% 19
+\BOOKMARK [1][-]{section.4.7}{Software Resources Required}{chapter.4}% 20
+\BOOKMARK [1][-]{section.4.8}{Hardware Resources Required}{chapter.4}% 21
+\BOOKMARK [0][-]{chapter.5}{Project Plan}{}% 22
+\BOOKMARK [1][-]{section.5.1}{Project Estimates}{chapter.5}% 23
+\BOOKMARK [2][-]{subsection.5.1.1}{Reconciled Estimates}{section.5.1}% 24
+\BOOKMARK [2][-]{subsection.5.1.2}{Project Resources}{section.5.1}% 25
+\BOOKMARK [1][-]{section.5.2}{Risk Management w.r.t. NP Hard analysis}{chapter.5}% 26
+\BOOKMARK [2][-]{subsection.5.2.1}{Risk Identification}{section.5.2}% 27
+\BOOKMARK [2][-]{subsection.5.2.2}{Overview of Risk Mitigation, Monitoring, Management}{section.5.2}% 28
+\BOOKMARK [1][-]{section.5.3}{Project Schedule}{chapter.5}% 29
+\BOOKMARK [2][-]{subsection.5.3.1}{Project task set}{section.5.3}% 30
+\BOOKMARK [2][-]{subsection.5.3.2}{Task network}{section.5.3}% 31
+\BOOKMARK [2][-]{subsection.5.3.3}{Timeline Chart}{section.5.3}% 32
+\BOOKMARK [1][-]{section.5.4}{Team Organization}{chapter.5}% 33
+\BOOKMARK [2][-]{subsection.5.4.1}{Team structure}{section.5.4}% 34
+\BOOKMARK [2][-]{subsection.5.4.2}{Management reporting and communication}{section.5.4}% 35
+\BOOKMARK [0][-]{chapter.6}{Software requirement specification }{}% 36
+\BOOKMARK [1][-]{section.6.1}{Introduction}{chapter.6}% 37
+\BOOKMARK [2][-]{subsection.6.1.1}{Purpose and Scope of Document}{section.6.1}% 38
+\BOOKMARK [2][-]{subsection.6.1.2}{Intended Audience and Reading Suggestion}{section.6.1}% 39
+\BOOKMARK [1][-]{section.6.2}{Usage Scenario}{chapter.6}% 40
+\BOOKMARK [2][-]{subsection.6.2.1}{Use-cases}{section.6.2}% 41
+\BOOKMARK [2][-]{subsection.6.2.2}{Use Case View}{section.6.2}% 42
+\BOOKMARK [1][-]{section.6.3}{Functional Model and Description}{chapter.6}% 43
+\BOOKMARK [2][-]{subsection.6.3.1}{Data Flow Diagram}{section.6.3}% 44
+\BOOKMARK [2][-]{subsection.6.3.2}{Activity Diagram:}{section.6.3}% 45
+\BOOKMARK [2][-]{subsection.6.3.3}{Non Functional Requirements:}{section.6.3}% 46
+\BOOKMARK [2][-]{subsection.6.3.4}{State Diagram:}{section.6.3}% 47
+\BOOKMARK [2][-]{subsection.6.3.5}{Design Constraints}{section.6.3}% 48
+\BOOKMARK [2][-]{subsection.6.3.6}{Software Interface Description}{section.6.3}% 49
+\BOOKMARK [0][-]{chapter.7}{Detailed Design Document using Appendix A and B}{}% 50
+\BOOKMARK [1][-]{section.7.1}{Introduction}{chapter.7}% 51
+\BOOKMARK [1][-]{section.7.2}{Architectural Design}{chapter.7}% 52
+\BOOKMARK [1][-]{section.7.3}{Compoent Design}{chapter.7}% 53
+\BOOKMARK [2][-]{subsection.7.3.1}{Class Diagram}{section.7.3}% 54
+\BOOKMARK [0][-]{chapter.8}{Project Implementation}{}% 55
+\BOOKMARK [1][-]{section.8.1}{Introduction}{chapter.8}% 56
+\BOOKMARK [1][-]{section.8.2}{Tools and Technologies Used}{chapter.8}% 57
+\BOOKMARK [1][-]{section.8.3}{Methodologies/Algorithm Details}{chapter.8}% 58
+\BOOKMARK [2][-]{subsection.8.3.1}{Algorithm 1/Pseudo Code}{section.8.3}% 59
+\BOOKMARK [2][-]{subsection.8.3.2}{Algorithm 2/Pseudo Code}{section.8.3}% 60
+\BOOKMARK [1][-]{section.8.4}{Verification and Validation for Acceptance}{chapter.8}% 61
+\BOOKMARK [1][-]{section.8.5}{Reports for classifier training process: }{chapter.8}% 62
+\BOOKMARK [0][-]{chapter.9}{Software Testing}{}% 63
+\BOOKMARK [1][-]{section.9.1}{Type of Testing Used}{chapter.9}% 64
+\BOOKMARK [1][-]{section.9.2}{Test Cases and Test Results}{chapter.9}% 65
+\BOOKMARK [0][-]{chapter.10}{Results}{}% 66
+\BOOKMARK [1][-]{section.10.1}{Screen shots}{chapter.10}% 67
+\BOOKMARK [1][-]{section.10.2}{Outputs}{chapter.10}% 68
+\BOOKMARK [0][-]{chapter.11}{Deployment and Maintenance}{}% 69
+\BOOKMARK [1][-]{section.11.1}{Installation and un-installation}{chapter.11}% 70
+\BOOKMARK [1][-]{section.11.2}{User help}{chapter.11}% 71
+\BOOKMARK [0][-]{chapter.12}{Conclusion and future scope}{}% 72
+\BOOKMARK [0][-]{Annexure.1.A}{Annexure References}{}% 73
+\BOOKMARK [0][-]{Annexure.1.B}{Annexure Laboratory assignments on Project Analysis of Algorithmic Design}{}% 74
+\BOOKMARK [0][-]{Annexure.1.C}{Annexure Laboratory assignments on Project Quality and Reliability Testing of Project Design}{}% 75
+\BOOKMARK [0][-]{Annexure.1.D}{Annexure Project Planner}{}% 76
+\BOOKMARK [0][-]{Annexure.1.E}{Annexure Reviewers Comments of Paper Submitted}{}% 77
+\BOOKMARK [0][-]{Annexure.1.F}{Annexure Plagiarism Report}{}% 78
+\BOOKMARK [0][-]{Annexure.1.G}{Annexure \040Term-II Project Laboratory Assignments}{}% 79
+\BOOKMARK [0][-]{Annexure.1.H}{Annexure Information of Project Group Members}{}% 80

@@ -1,0 +1,112 @@
+    116.74.174.255  srp3003@ASUS-G56JR 
+   ~/BEPROJECT_OLD/EmoRecogFacial 
+   (py3-emoRec) 
+ python classifier_for_metrics.py                                                                    
+Making sets 0
+ working on anger
+ working on disgust
+ working on happiness
+ working on neutral
+ working on sadness
+ working on surprise
+training SVM linear 0
+getting accuracies 0
+linear:  0.8181818181818182
+Making sets 1
+ working on anger
+ working on disgust
+ working on happiness
+ working on neutral
+ working on sadness
+ working on surprise
+training SVM linear 1
+getting accuracies 1
+linear:  0.8181818181818182
+Making sets 2
+ working on anger
+ working on disgust
+ working on happiness
+ working on neutral
+ working on sadness
+ working on surprise
+training SVM linear 2
+getting accuracies 2
+linear:  0.7922077922077922
+Making sets 3
+ working on anger
+ working on disgust
+ working on happiness
+ working on neutral
+ working on sadness
+ working on surprise
+training SVM linear 3
+getting accuracies 3
+linear:  0.8701298701298701
+Making sets 4
+ working on anger
+ working on disgust
+ working on happiness
+ working on neutral
+ working on sadness
+ working on surprise
+training SVM linear 4
+getting accuracies 4
+linear:  0.8051948051948052
+Making sets 5
+ working on anger
+ working on disgust
+ working on happiness
+ working on neutral
+ working on sadness
+ working on surprise
+training SVM linear 5
+getting accuracies 5
+linear:  0.8961038961038961
+Making sets 6
+ working on anger
+ working on disgust
+ working on happiness
+ working on neutral
+ working on sadness
+ working on surprise
+training SVM linear 6
+getting accuracies 6
+linear:  0.7662337662337663
+Making sets 7
+ working on anger
+ working on disgust
+ working on happiness
+ working on neutral
+ working on sadness
+ working on surprise
+training SVM linear 7
+getting accuracies 7
+linear:  0.8701298701298701
+Making sets 8
+ working on anger
+ working on disgust
+ working on happiness
+ working on neutral
+ working on sadness
+ working on surprise
+training SVM linear 8
+getting accuracies 8
+linear:  0.8441558441558441
+Making sets 9
+ working on anger
+ working on disgust
+ working on happiness
+ working on neutral
+ working on sadness
+ working on surprise
+training SVM linear 9
+getting accuracies 9
+linear:  0.7792207792207793
+[0.8181818181818182, 0.8181818181818182, 0.7922077922077922, 0.8701298701298701, 0.8051948051948052, 0.8961038961038961, 0.7662337662337663, 0.8701298701298701, 0.8441558441558441, 0.7792207792207793]
+Mean value lin svm: 0.825974025974026
+[[ 6  2  0  1  0  0]
+ [ 1 10  0  0  0  0]
+ [ 0  0 13  0  0  0]
+ [ 2  0  0 16  4  1]
+ [ 1  0  0  1  3  0]
+ [ 0  0  1  1  2 12]] 

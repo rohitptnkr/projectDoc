@@ -1,0 +1,14 @@
+Dataset used:
+
+The Cohn-Kanade AU-Coded Facial Expression Database is for research in automatic facial image analysis and synthesis and for perceptual studies. Cohn-Kanade is available in two versions and a third is in preparation.
+We have used the second version of this dataset, referred to as CK+. It includes both posed and non-posed (spontaneous) expressions and additional types of metadata. The target expression for each sequence is fully FACS coded. In addition validated emotion labels are present in the metadata. Thus, sequences may be analyzed for both action units and prototypic emotions. Additionally, CK+ provides protocols and baseline results for facial feature tracking and action unit and emotion recognition. 
+
+VISUAL CORPUS DISTRIBUTION:
+We trained on 6 emotions present in the dataset with distribution as follows:
+Anger 45
+Disgust 58
+Happiness 69
+Neutral 117
+Sadness 28
+Surprise 83
+

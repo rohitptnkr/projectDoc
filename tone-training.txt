@@ -1,0 +1,74 @@
+    116.74.174.255  srp3003@ASUS-G56JR 
+   ~/EmoRecogSpeech_SKLEARN 
+   (py3-emoRec)     final   
+ python trainDNN.py                                                                                  
+Dataset loaded into dataframe...
+X and y loaded....
+Training and testing sets created...
+X_train and X_test normalized...
+Training DNN...
+Iteration 1, loss = 1.19501334
+Validation score: 0.495714
+Iteration 2, loss = 1.02921240
+Validation score: 0.579298
+Iteration 3, loss = 0.83500359
+Validation score: 0.659660
+Iteration 4, loss = 0.63884454
+Validation score: 0.723208
+Iteration 5, loss = 0.48286869
+Validation score: 0.761533
+Iteration 6, loss = 0.37261158
+Validation score: 0.798439
+Iteration 7, loss = 0.29365010
+Validation score: 0.815581
+Iteration 8, loss = 0.23836988
+Validation score: 0.833706
+Iteration 9, loss = 0.20316889
+Validation score: 0.844625
+Iteration 10, loss = 0.17408951
+Validation score: 0.842660
+Iteration 11, loss = 0.16278715
+Validation score: 0.854015
+Iteration 12, loss = 0.14406390
+Validation score: 0.864825
+Iteration 13, loss = 0.13786938
+Validation score: 0.870394
+Iteration 14, loss = 0.13181086
+Validation score: 0.872304
+Iteration 15, loss = 0.12003902
+Validation score: 0.875908
+Iteration 16, loss = 0.11500236
+Validation score: 0.874707
+Iteration 17, loss = 0.11445793
+Validation score: 0.878201
+Iteration 18, loss = 0.10277859
+Validation score: 0.881858
+Iteration 19, loss = 0.10925041
+Validation score: 0.883988
+Iteration 20, loss = 0.09472984
+Validation score: 0.888246
+Iteration 21, loss = 0.10075731
+Validation score: 0.887973
+Iteration 22, loss = 0.09333517
+Validation score: 0.884370
+Iteration 23, loss = 0.09320555
+Validation score: 0.886335
+Validation score did not improve more than tol=0.000100 for two consecutive epochs. Stopping.
+DNN trained in 234.56247210502625 seconds ...
+TRAINING SET SCORE : 0.965337
+TESTING SET SCORE : 0.887380
+CONFUSION MATRIX for testing data : 
+[[10097   408   568   375]
+ [  549 10147   369   382]
+ [  447   201 10331   469]
+ [  544   319   526 10059]]
+CLASSIFICATION REPORT for testing data :
+             precision    recall  f1-score   support
+
+          0       0.87      0.88      0.87     11448
+          1       0.92      0.89      0.90     11447
+          2       0.88      0.90      0.89     11448
+          3       0.89      0.88      0.88     11448
+
+avg / total       0.89      0.89      0.89     45791
+ 
