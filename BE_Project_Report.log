@@ -1,14 +1,16 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.4.28)  28 MAY 2018 21:15
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.28)  28 MAY 2018 20:41
+>>>>>>> 27dd2b707a0643b0196d16608993f1feaec5ccf4
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
-**BE_Project_Report.tex
-(./BE_Project_Report.tex
+**./BE_Project_Report.tex
+(BE_Project_Report.tex
 LaTeX2e <2017-04-15>
-Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
-(/usr/share/texmf-dist/tex/latex/base/report.cls
+Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\report.cls"
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/share/texmf-dist/tex/latex/base/size12.clo
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -24,31 +26,37 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
+sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
+y"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
+sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
+ics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
+x.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-(/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.
+sty"
 Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip43
@@ -60,11 +68,9 @@ s
 \f@nch@O@erf=\skip49
 \f@nch@O@olf=\skip50
 \f@nch@O@orf=\skip51
-)
-(/usr/share/texmf-dist/tex/latex/pbox/pbox.sty
+) ("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pbox\pbox.sty"
 Package: pbox 2011/12/07 v1.2 Dynamic parboxes
-
-(/usr/share/texmf-dist/tex/latex/tools/calc.sty
+ ("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count88
 \calc@Bcount=\count89
@@ -76,20 +82,22 @@ LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count90
 \calc@Cskip=\skip54
-)
-(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+) ("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \pb@xlen=\skip55
 )
-(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.
+sty"
 Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
 
-(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-
+hyperref.sty"
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-
+generic.sty"
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
@@ -129,25 +137,30 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-(/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
+sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-(/usr/share/texmf-dist/tex/latex/oberdiek/auxhook.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.s
+ty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
+.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen107
 \Hy@linkcounter=\count91
 \Hy@pagecounter=\count92
 
-(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.de
+f"
 File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count93
 
-(/usr/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.
+cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4509.
@@ -158,8 +171,7 @@ Package hyperref Info: Backreferencing OFF on input line 4529.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4762.
 \c@Hy@tempcnt=\count94
-
-(/usr/share/texmf-dist/tex/latex/url/url.sty
+ ("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -183,48 +195,62 @@ LaTeX Info: Redefining \pageref on input line 6443.
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-(/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.d
+ef"
 File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
 \Fld@listcount=\count99
 \c@bookmark@seq@number=\count100
 
-(/usr/share/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfile
+check.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip56
 )
-(/usr/share/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer\
+tikz.sty"
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf
+.sty"
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfr
+cs.sty"
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+futil-common.tex"
 \pgfutil@everybye=\toks15
 \pgfutil@tempdima=\dimen111
 \pgfutil@tempdimb=\dimen112
 
-(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex))
-(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+futil-common-lists.tex"))
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+futil-latex.def"
 \pgfutil@abb=\box26
 
-(/usr/share/texmf-dist/tex/latex/ms/everyshi.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+frcs.code.tex"
 Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
 ))
 Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
 
-(/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(/usr/share/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf
+core.sty"
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\pg
+fsys.sty"
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsys.code.tex"
 Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 
-(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+fkeys.code.tex"
 \pgfkeys@pathtoks=\toks16
 \pgfkeys@temptoks=\toks17
 
-(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+fkeysfiltered.code.tex"
 \pgfkeys@tmptoks=\toks18
 ))
 \pgf@x=\dimen113
@@ -245,29 +271,35 @@ Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 \t@pgf@tokb=\toks20
 \t@pgf@tokc=\toks21
 
-(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgf.cfg"
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsys-pdftex.def"
 File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
 
-(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsys-common-pdf.def"
 File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )))
-(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsyssoftpath.code.tex"
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
 \pgfsyssoftpath@smallbuffer@items=\count105
 \pgfsyssoftpath@bigbuffer@items=\count106
 )
-(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsysprotocol.code.tex"
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
 ))
-(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
+.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -281,13 +313,18 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcore.code.tex"
 Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+.code.tex"
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+calc.code.tex"
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+util.code.tex")
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+parser.code.tex"
 \pgfmath@dimen=\dimen121
 \pgfmath@count=\count107
 \pgfmath@box=\box27
@@ -295,19 +332,30 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 \pgfmath@stack@operand=\toks23
 \pgfmath@stack@operation=\toks24
 )
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code
-.tex)
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.te
-x) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics
-.code.tex))) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.code.tex"
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.basic.code.tex")
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.trigonometric.code.tex")
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.random.code.tex")
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.comparison.code.tex")
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.base.code.tex")
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.round.code.tex")
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.misc.code.tex")
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.integerarithmetics.code.tex")))
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+float.code.tex"
 \c@pgfmathroundto@lastzeros=\count108
-)) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+))
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepoints.code.tex"
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@picminx=\dimen122
 \pgf@picmaxx=\dimen123
@@ -324,99 +372,128 @@ File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@zx=\dimen134
 \pgf@zy=\dimen135
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepathconstruct.code.tex"
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
 \pgf@path@lastx=\dimen136
 \pgf@path@lasty=\dimen137
-) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+)
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepathusage.code.tex"
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
 \pgf@shorten@end@additional=\dimen138
 \pgf@shorten@start@additional=\dimen139
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorescopes.code.tex"
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box28
 \pgf@hbox=\box29
 \pgf@layerbox@main=\box30
 \pgf@picture@serial@count=\count109
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoregraphicstate.code.tex"
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
 \pgflinewidth=\dimen140
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.t
-ex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoretransformations.code.tex"
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
 \pgf@pt@x=\dimen141
 \pgf@pt@y=\dimen142
 \pgf@pt@temp=\dimen143
-) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+)
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorequick.code.tex"
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoreobjects.code.tex"
 File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.te
-x
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepathprocessing.code.tex"
 File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
-) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+)
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorearrows.code.tex"
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 \pgfarrowsep=\dimen144
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen145
 \pgf@sys@shading@range@num=\count110
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoreimage.code.tex"
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoreexternal.code.tex"
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
 \pgfexternal@startupbox=\box31
 ))
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorelayers.code.tex"
 File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoretransparency.code.tex"
 File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
-) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+)
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepatterns.code.tex"
 File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 )))
-(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
+oduleshapes.code.tex"
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
 \pgfnodeparttextbox=\box32
 )
-(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
+oduleplot.code.tex"
 File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 )
-(/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\
+pgfcomp-version-0-65.sty"
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
 \pgf@nodesepstart=\dimen146
 \pgf@nodesepend=\dimen147
 )
-(/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\
+pgfcomp-version-1-18.sty"
 Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
 ))
-(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
-(/usr/share/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
-(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgff
+or.sty"
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfk
+eys.sty"
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+fkeys.code.tex"))
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.s
+ty"
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+.code.tex"))
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+ffor.code.tex"
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+.code.tex")
 \pgffor@iter=\dimen148
 \pgffor@skip=\dimen149
 \pgffor@stack=\toks25
 \pgffor@toks=\toks26
 ))
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\tikz.code.tex"
 Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 
-(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.te
-x
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pg
+flibraryplothandlers.code.tex"
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \pgf@plot@mark@count=\count111
 \pgfplotmarksize=\dimen150
@@ -435,7 +512,9 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikznumberofchildren=\count113
 \tikznumberofcurrentchild=\count114
 \tikz@fig@count=\count115
- (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
+odulematrix.code.tex"
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 \pgfmatrixcurrentrow=\count116
 \pgfmatrixcurrentcolumn=\count117
@@ -443,67 +522,68 @@ File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 )
 \tikz@expandcount=\count119
 
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-topaths.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibrarytopaths.code.tex"
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 )))
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-arrows.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibraryarrows.code.tex"
 File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
 
-(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pg
+flibraryarrows.code.tex"
 File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
 \arrowsize=\dimen157
 ))
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-shapes.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibraryshapes.code.tex"
 File: tikzlibraryshapes.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
 
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-shapes.geometric.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibraryshapes.geometric.code.tex"
 File: tikzlibraryshapes.geometric.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1
 )
 
-(/usr/share/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geomet
-ric.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\sh
+apes\pgflibraryshapes.geometric.code.tex"
 File: pgflibraryshapes.geometric.code.tex 2008/06/26 v3.0.1a (rcs-revision 1.1)
 
 ))
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-shapes.misc.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibraryshapes.misc.code.tex"
 File: tikzlibraryshapes.misc.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
 
-(/usr/share/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc.c
-ode.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\sh
+apes\pgflibraryshapes.misc.code.tex"
 File: pgflibraryshapes.misc.code.tex 2013/07/18 v3.0.1a (rcs-revision 1.5)
 ))
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-shapes.symbols.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibraryshapes.symbols.code.tex"
 File: tikzlibraryshapes.symbols.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
 
-(/usr/share/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.symbol
-s.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\sh
+apes\pgflibraryshapes.symbols.code.tex"
 File: pgflibraryshapes.symbols.code.tex 2013/09/11 v3.0.1a (rcs-revision 1.6)
 ))
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-shapes.arrows.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibraryshapes.arrows.code.tex"
 File: tikzlibraryshapes.arrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
 
-(/usr/share/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.arrows
-.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\sh
+apes\pgflibraryshapes.arrows.code.tex"
 File: pgflibraryshapes.arrows.code.tex 2008/06/26 v3.0.1a (rcs-revision 1.1)
 ))
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-shapes.callouts.code.tex
-(/usr/share/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.callou
-ts.code.tex))
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-shapes.multipart.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibraryshapes.callouts.code.tex"
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\sh
+apes\pgflibraryshapes.callouts.code.tex"))
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibraryshapes.multipart.code.tex"
 File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1
 )
 
-(/usr/share/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multip
-art.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\sh
+apes\pgflibraryshapes.multipart.code.tex"
 File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.1a (rcs-revision 1.2)
 
 \pgfnodepartlowerbox=\box37
@@ -527,8 +607,8 @@ File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.1a (rcs-revision 1.2)
 \pgfnodepartsixbox=\box55
 \pgfnodepartfivebox=\box56
 )))
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-snakes.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibrarysnakes.code.tex"
 File: tikzlibrarysnakes.code.tex 2013/07/15 v3.0.1a (rcs-revision 1.7)
 
 
@@ -536,11 +616,12 @@ Package pgf Warning: Snakes have been superseded by decorations. Please use the
  decoration libraries instead of the snakes library on input line 14.
 
 
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-decorations.pathmorphing.code.tex
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-decorations.code.tex
-(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibrarydecorations.pathmorphing.code.tex"
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibrarydecorations.code.tex"
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
+oduledecorations.code.tex"
 \pgfdecoratedcompleteddistance=\dimen158
 \pgfdecoratedremainingdistance=\dimen159
 \pgfdecoratedinputsegmentcompleteddistance=\dimen160
@@ -552,33 +633,34 @@ decorations.code.tex
 )
 \tikz@lib@dec@box=\box57
 )
-(/usr/share/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorati
-ons.pathmorphing.code.tex))
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-decorations.pathreplacing.code.tex
-(/usr/share/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorati
-ons.pathreplacing.code.tex))
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-decorations.shapes.code.tex
-(/usr/share/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorati
-ons.shapes.code.tex)))
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-automata.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\de
+corations\pgflibrarydecorations.pathmorphing.code.tex"))
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibrarydecorations.pathreplacing.code.tex"
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\de
+corations\pgflibrarydecorations.pathreplacing.code.tex"))
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibrarydecorations.shapes.code.tex"
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\de
+corations\pgflibrarydecorations.shapes.code.tex")))
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibraryautomata.code.tex"
 File: tikzlibraryautomata.code.tex 2008/07/14 v3.0.1a (rcs-revision 1.3)
 )
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-backgrounds.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibrarybackgrounds.code.tex"
 File: tikzlibrarybackgrounds.code.tex 2013/07/18 v3.0.1a (rcs-revision 1.3)
 \pgf@layerbox@background=\box58
 \pgf@layerboxsaved@background=\box59
 )
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-petri.code.tex
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibrarypetri.code.tex"
 File: tikzlibrarypetri.code.tex 2013/07/17 v3.0.1a (rcs-revision 1.3)
-) (/usr/share/texmf-dist/tex/latex/tools/tabularx.sty
+)
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\tabularx.sty
+"
 Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
-
-(/usr/share/texmf-dist/tex/latex/tools/array.sty
+ ("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \col@sep=\dimen165
 \extrarowheight=\dimen166
@@ -594,24 +676,28 @@ Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \TX@cols=\count121
 \TX@ftn=\toks28
 )
-(/usr/share/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tocbibind\tocbibin
+d.sty"
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
 Package tocbibind Info: The document has chapter divisions on input line 50.
 
 
 Package tocbibind Note: Using chapter style headings, unless overridden.
 
-) (/usr/share/texmf-dist/tex/latex/appendix/appendix.sty
+)
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\appendix\appendix.
+sty"
 Package: appendix 2009/09/02 v1.2b extra appendix facilities
 \c@@pps=\count122
 \c@@ppsavesec=\count123
 \c@@ppsaveapp=\count124
 )
-(/usr/share/texmf-dist/tex/latex/titlesec/titletoc.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titletoc.
+sty"
 Package: titletoc 2011/12/15 v1.6 TOC entries
 \ttl@leftsep=\dimen172
 )
-(/usr/share/texmf-dist/tex/latex/float/float.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count125
 \float@exts=\toks29
@@ -619,13 +705,16 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks30
 \@floatcapt=\box61
 )
-(/usr/share/texmf-dist/tex/latex/caption/subcaption.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\subcaption
+.sty"
 Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
 
-(/usr/share/texmf-dist/tex/latex/caption/caption.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.st
+y"
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
-(/usr/share/texmf-dist/tex/latex/caption/caption3.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.s
+ty"
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
 \captionmargin=\dimen173
@@ -643,27 +732,31 @@ Package caption Info: hyperref package is loaded.
 \c@subfigure=\count127
 \c@subtable=\count128
 )
-(/usr/share/texmf-dist/tex/latex/multirow/multirow.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multirow.
+sty"
 Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
 \multirow@colwidth=\skip59
 \multirow@cntb=\count129
 \multirow@dima=\skip60
 \bigstrutjot=\dimen180
 )
-(/usr/share/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\algorithm2e\algori
+thm2e.sty"
 Package: algorithm2e 2017/07/18 v5.2 algorithms environments
 \c@AlgoLine=\count130
 \algocf@hangindent=\skip61
 
-(/usr/share/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifoddpage\ifoddpag
+e.sty"
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
 \c@checkoddpage=\count131
 )
-(/usr/share/texmf-dist/tex/latex/tools/xspace.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xspace.sty"
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-(/usr/share/texmf-dist/tex/latex/relsize/relsize.sty
-Package: relsize 2013/03/29 ver 4.1
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ltxmisc\relsize.st
+y"
+Package: relsize 2003/07/04 ver 3.1
 )
 \skiptotal=\skip62
 \skiplinenumber=\skip63
@@ -700,7 +793,7 @@ Package: relsize 2013/03/29 ver 4.1
 \c@algocf=\count134
 \algocf@algoframe=\box68
 \algocf@algobox=\box69
-) (./BE_Project_Report.aux
+) (BE_Project_Report.aux
 
 LaTeX Warning: Label `tab:risk3' multiply defined.
 
@@ -721,7 +814,9 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
 LaTeX Font Info:    ... okay on input line 48.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
 LaTeX Font Info:    ... okay on input line 48.
- (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
+ii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count135
 \scratchdimen=\dimen187
@@ -734,10 +829,13 @@ LaTeX Font Info:    ... okay on input line 48.
 \MPnumerator=\count139
 \makeMPintoPDFobject=\count140
 \everyMPtoPDFconversion=\toks32
-) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+)
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
+base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
+y"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -746,18 +844,16 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-
-(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
+)
 \AtBeginShipoutBox=\box71
 Package hyperref Info: Link coloring OFF on input line 48.
 
-(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.s
+ty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-(/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitl
+estring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count141
@@ -765,8 +861,7 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 48.
 LaTeX Info: Redefining \pageref on input line 48.
 LaTeX Info: Redefining \nameref on input line 48.
-
-(./BE_Project_Report.out) (./BE_Project_Report.out)
+ (BE_Project_Report.out) (BE_Project_Report.out)
 \@outlinefile=\write4
 \openout4 = `BE_Project_Report.out'.
 
@@ -781,15 +876,15 @@ LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <16> not available
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+{C:/Users/Manas/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 101.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 101.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 101.
- [2] [3] [4]
-(./BE_Project_Report.toc
+ [2]
+[3] [4] (BE_Project_Report.toc
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
 less on input line 31.
@@ -804,7 +899,7 @@ less on input line 31.
 \tf@toc=\write5
 \openout5 = `BE_Project_Report.toc'.
 
- [7] (./BE_Project_Report.lof)
+ [7] (BE_Project_Report.lof)
 \tf@lof=\write6
 \openout6 = `BE_Project_Report.lof'.
 
@@ -819,7 +914,7 @@ less on input line 191.
 
 [8
 
-] (./BE_Project_Report.lot)
+] (BE_Project_Report.lot)
 \tf@lot=\write7
 \openout7 = `BE_Project_Report.lot'.
 
@@ -843,7 +938,7 @@ l.195 \end{abstract}
 Chapter 1.
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 203.
 
-(/usr/share/texmf-dist/tex/latex/base/omscmr.fd
+("C:\Users\Manas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
@@ -1452,13 +1547,21 @@ Underfull \hbox (badness 1783) in paragraph at lines 807--807
 LaTeX Warning: Float too large for page by 79.44972pt on input line 811.
 
 [29] [30]
+<<<<<<< HEAD
 <use_case_proj.jpg, id=631, 804.00375pt x 673.51625pt>
+=======
+<use_case_proj.jpg, id=664, 804.00375pt x 673.51625pt>
+>>>>>>> 27dd2b707a0643b0196d16608993f1feaec5ccf4
 File: use_case_proj.jpg Graphic file (type jpg)
 <use use_case_proj.jpg>
 Package pdftex.def Info: use_case_proj.jpg  used on input line 818.
 (pdftex.def)             Requested size: 390.0pt x 326.69609pt.
  [31 <./use_case_proj.jpg>]
+<<<<<<< HEAD
 <dataflow_proj.jpg, id=636, 654.445pt x 502.87875pt>
+=======
+<dataflow_proj.jpg, id=669, 654.445pt x 502.87875pt>
+>>>>>>> 27dd2b707a0643b0196d16608993f1feaec5ccf4
 File: dataflow_proj.jpg Graphic file (type jpg)
 <use dataflow_proj.jpg>
 Package pdftex.def Info: dataflow_proj.jpg  used on input line 832.
@@ -1501,34 +1604,69 @@ less on input line 931.
 
 [38
 
+<<<<<<< HEAD
 ] [39]
 <tone-utterances-before-combining.png, id=677, 455.45157pt x 255.95625pt>
+=======
+] [35]
+Chapter 8.
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 906.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 906.
+
+[36
+
+] [37]
+<tone-utterances-before-combining.png, id=698, 455.45157pt x 255.95625pt>
+>>>>>>> 27dd2b707a0643b0196d16608993f1feaec5ccf4
 File: tone-utterances-before-combining.png Graphic file (type png)
 <use tone-utterances-before-combining.png>
 Package pdftex.def Info: tone-utterances-before-combining.png  used on input li
 ne 974.
 (pdftex.def)             Requested size: 390.0pt x 219.17683pt.
+<<<<<<< HEAD
 <tone-utterances-after-combining.png, id=678, 455.45157pt x 255.95625pt>
+=======
+<tone-utterances-after-combining.png, id=699, 455.45157pt x 255.95625pt>
+>>>>>>> 27dd2b707a0643b0196d16608993f1feaec5ccf4
 File: tone-utterances-after-combining.png Graphic file (type png)
 <use tone-utterances-after-combining.png>
 Package pdftex.def Info: tone-utterances-after-combining.png  used on input lin
 e 983.
 (pdftex.def)             Requested size: 390.0pt x 219.17683pt.
+<<<<<<< HEAD
  [40 <./tone-utterances-before-combining.png (PNG copy)>] [41 <./tone-utterance
 s-after-combining.png (PNG copy)>] [42]
 <tone-convergence-dnn.png, id=692, 455.45157pt x 255.95625pt>
+=======
+ [38 <./tone-utterances-before-combining.png (PNG copy)>] [39 <./tone-utterance
+s-after-combining.png (PNG copy)>]
+<tone-convergence-dnn.png, id=709, 455.45157pt x 255.95625pt>
+>>>>>>> 27dd2b707a0643b0196d16608993f1feaec5ccf4
 File: tone-convergence-dnn.png Graphic file (type png)
 <use tone-convergence-dnn.png>
 Package pdftex.def Info: tone-convergence-dnn.png  used on input line 1068.
 (pdftex.def)             Requested size: 390.0pt x 219.17683pt.
+<<<<<<< HEAD
 <tone-confusion-matrix.png, id=693, 462.528pt x 346.896pt>
+=======
+<tone-confusion-matrix.png, id=710, 462.528pt x 346.896pt>
+>>>>>>> 27dd2b707a0643b0196d16608993f1feaec5ccf4
 File: tone-confusion-matrix.png Graphic file (type png)
 <use tone-confusion-matrix.png>
 Package pdftex.def Info: tone-confusion-matrix.png  used on input line 1077.
 (pdftex.def)             Requested size: 390.0pt x 292.5128pt.
  [43 <./tone-convergence-dnn.png (PNG copy)>] [44 <./tone-confusion-matrix.png>
 ]
+<<<<<<< HEAD
 <visual-corpus-distribution.png, id=704, 455.45157pt x 255.95625pt>
+=======
+<visual-corpus-distribution.png, id=722, 455.45157pt x 255.95625pt>
+>>>>>>> 27dd2b707a0643b0196d16608993f1feaec5ccf4
 File: visual-corpus-distribution.png Graphic file (type png)
 <use visual-corpus-distribution.png>
 Package pdftex.def Info: visual-corpus-distribution.png  used on input line 110
@@ -1541,22 +1679,40 @@ Overfull \hbox (900.22499pt too wide) in paragraph at lines 1220--1220
 3, 0.8701298701298701, 0.8441558441558441, 0.7792207792207793][] 
  []
 
+<<<<<<< HEAD
 <visual-kfold-svm.png, id=720, 455.45157pt x 255.95625pt>
+=======
+<visual-kfold-svm.png, id=737, 455.45157pt x 255.95625pt>
+>>>>>>> 27dd2b707a0643b0196d16608993f1feaec5ccf4
 File: visual-kfold-svm.png Graphic file (type png)
 <use visual-kfold-svm.png>
 Package pdftex.def Info: visual-kfold-svm.png  used on input line 1225.
 (pdftex.def)             Requested size: 390.0pt x 219.17683pt.
+<<<<<<< HEAD
 <visual-confusion-matrix.png, id=721, 462.528pt x 346.896pt>
+=======
+<visual-confusion-matrix.png, id=738, 462.528pt x 346.896pt>
+>>>>>>> 27dd2b707a0643b0196d16608993f1feaec5ccf4
 File: visual-confusion-matrix.png Graphic file (type png)
 <use visual-confusion-matrix.png>
 Package pdftex.def Info: visual-confusion-matrix.png  used on input line 1233.
 (pdftex.def)             Requested size: 390.0pt x 292.5128pt.
+<<<<<<< HEAD
 [48] [49 <./visual-kfold-svm.png (PNG copy)> <./visual-confusion-matrix.png>]
 
 LaTeX Warning: Reference `tone-utter-after' on page 50 undefined on input line 
 1249.
 
 <text-utterance-after-combining.png, id=731, 455.45157pt x 255.95625pt>
+=======
+<text-convergence.png, id=739, 455.45157pt x 255.95625pt>
+File: text-convergence.png Graphic file (type png)
+<use text-convergence.png>
+Package pdftex.def Info: text-convergence.png  used on input line 1222.
+(pdftex.def)             Requested size: 390.0pt x 219.17683pt.
+[45] [46 <./visual-kfold-svm.png (PNG copy)> <./visual-confusion-matrix.png>]
+<text-utterance-after-combining.png, id=750, 455.45157pt x 255.95625pt>
+>>>>>>> 27dd2b707a0643b0196d16608993f1feaec5ccf4
 File: text-utterance-after-combining.png Graphic file (type png)
 <use text-utterance-after-combining.png>
 Package pdftex.def Info: text-utterance-after-combining.png  used on input line
@@ -1573,7 +1729,11 @@ File: text-convergence.png Graphic file (type png)
 <use text-convergence.png>
 Package pdftex.def Info: text-convergence.png  used on input line 1302.
 (pdftex.def)             Requested size: 390.0pt x 219.17683pt.
+<<<<<<< HEAD
 <text-confusion-matrix.png, id=739, 462.528pt x 346.896pt>
+=======
+<text-confusion-matrix.png, id=751, 462.528pt x 346.896pt>
+>>>>>>> 27dd2b707a0643b0196d16608993f1feaec5ccf4
 File: text-confusion-matrix.png Graphic file (type png)
 <use text-confusion-matrix.png>
 Package pdftex.def Info: text-confusion-matrix.png  used on input line 1312.
@@ -2563,7 +2723,7 @@ less on input line 1496.
 
 ]
 Annexure A.
-(./BE_Project_Report.bbl
+(BE_Project_Report.bbl
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
 less on input line 1.
@@ -2592,7 +2752,11 @@ less on input line 1501.
 
 ]
 Annexure C.
+<<<<<<< HEAD
 <idea_matrix.JPG, id=791, 669.702pt x 399.894pt>
+=======
+<idea_matrix.JPG, id=786, 669.702pt x 399.894pt>
+>>>>>>> 27dd2b707a0643b0196d16608993f1feaec5ccf4
 File: idea_matrix.JPG Graphic file (type jpg)
 <use idea_matrix.JPG>
 Package pdftex.def Info: idea_matrix.JPG  used on input line 1506.
@@ -2696,6 +2860,7 @@ less on input line 1560.
 
 [70
 
+<<<<<<< HEAD
 ] [71]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1574.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 1574.
@@ -2708,6 +2873,17 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1574.
 Package rerunfilecheck Warning: File `BE_Project_Report.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
+=======
+] [63]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1353.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1353.
+ (BE_Project_Report.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1353.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1353.
+
+Package rerunfilecheck Info: File `BE_Project_Report.out' has not changed.
+(rerunfilecheck)             Checksum: CCABF15EA6758657F3F4820BB41CB55C;5793.
+>>>>>>> 27dd2b707a0643b0196d16608993f1feaec5ccf4
 
 Package rerunfilecheck Info: Checksums for `BE_Project_Report.out':
 (rerunfilecheck)             Before: CB73430EBB2D0AD2AFEBD93E139B1B33;5177
@@ -2725,6 +2901,7 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1574.
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  21377 strings out of 492982
  435034 string characters out of 6138579
  524404 words of memory out of 5000000
@@ -2745,4 +2922,28 @@ PDF statistics:
  812 compressed objects within 9 object streams
  229 named destinations out of 1000 (max. 500000)
  677 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+ 21359 strings out of 493305
+ 443607 string characters out of 3129802
+ 523979 words of memory out of 3000000
+ 24292 multiletter control sequences out of 15000+200000
+ 8669 words of font info for 31 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,12n,80p,1430b,724s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Manas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmbx12.pfb><C:/Users/Manas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmex10.pfb><C:/Users/Manas/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Manas/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Manas/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Mana
+s/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:
+/Users/Manas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+msy10.pfb><C:/Users/Manas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmtt12.pfb>
+Output written on BE_Project_Report.pdf (73 pages, 729359 bytes).
+PDF statistics:
+ 921 PDF objects out of 1000 (max. 8388607)
+ 228 named destinations out of 1000 (max. 500000)
+ 726 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> 27dd2b707a0643b0196d16608993f1feaec5ccf4
 
