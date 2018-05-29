@@ -18,7 +18,7 @@
 \contentsline {section}{\numberline {4.5}Outcome}{20}{section.4.5}
 \contentsline {section}{\numberline {4.6}Applications}{20}{section.4.6}
 \contentsline {section}{\numberline {4.7}Software Resources Required}{20}{section.4.7}
-\contentsline {section}{\numberline {4.8}Hardware Resources Required}{21}{section.4.8}
+\contentsline {section}{\numberline {4.8}Hardware Resources Required}{20}{section.4.8}
 \contentsline {chapter}{\numberline {5}Project Plan}{22}{chapter.5}
 \contentsline {section}{\numberline {5.1}Project Estimates}{22}{section.5.1}
 \contentsline {subsection}{\numberline {5.1.1}Reconciled Estimates}{22}{subsection.5.1.1}
