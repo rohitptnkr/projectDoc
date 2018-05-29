@@ -6,21 +6,21 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {6.1}{\ignorespaces Use case diagram\relax }}{31}{figure.caption.14}
 \contentsline {figure}{\numberline {6.2}{\ignorespaces Dataflow diagram\relax }}{32}{figure.caption.15}
-\contentsline {figure}{\numberline {6.3}{\ignorespaces State transition diagram\relax }}{33}{figure.caption.16}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Class Diagram\relax }}{33}{figure.caption.16}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Activity Diagram\relax }}{34}{figure.caption.17}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces State Diagram\relax }}{35}{figure.caption.18}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Architecture diagram\relax }}{37}{figure.caption.19}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {7.1}{\ignorespaces Architecture diagram\relax }}{34}{figure.caption.17}
-\contentsline {figure}{\numberline {7.2}{\ignorespaces Class Diagram\relax }}{35}{figure.caption.18}
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {8.1}{\ignorespaces Tone Utterances before combining labels\relax }}{38}{figure.caption.19}
-\contentsline {figure}{\numberline {8.2}{\ignorespaces Tone Utterances after combining labels\relax }}{39}{figure.caption.20}
-\contentsline {figure}{\numberline {8.3}{\ignorespaces Learning Curve\relax }}{41}{figure.caption.21}
-\contentsline {figure}{\numberline {8.4}{\ignorespaces Confusion Matrix\relax }}{41}{figure.caption.22}
-\contentsline {figure}{\numberline {8.5}{\ignorespaces Visual Corpus Distribution\relax }}{43}{figure.caption.23}
-\contentsline {figure}{\numberline {8.6}{\ignorespaces Learning Curve\relax }}{46}{figure.caption.24}
-\contentsline {figure}{\numberline {8.7}{\ignorespaces Confusion Matrix\relax }}{46}{figure.caption.25}
-\contentsline {figure}{\numberline {8.8}{\ignorespaces Text Convergence\relax }}{47}{figure.caption.26}
-\contentsline {figure}{\numberline {8.9}{\ignorespaces Text Utterance After Combining\relax }}{47}{figure.caption.27}
-\contentsline {figure}{\numberline {8.10}{\ignorespaces Text Confusion Matrix\relax }}{48}{figure.caption.28}
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Tone Utterances before combining labels\relax }}{40}{figure.caption.20}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Tone Utterances after combining labels\relax }}{41}{figure.caption.21}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Learning Curve\relax }}{43}{figure.caption.22}
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Confusion Matrix\relax }}{44}{figure.caption.23}
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Visual Corpus Distribution\relax }}{45}{figure.caption.24}
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Learning Curve\relax }}{49}{figure.caption.25}
+\contentsline {figure}{\numberline {7.7}{\ignorespaces Confusion Matrix\relax }}{49}{figure.caption.26}
+\contentsline {figure}{\numberline {7.8}{\ignorespaces Text Utterance After Combining\relax }}{50}{figure.caption.27}
+\contentsline {figure}{\numberline {7.9}{\ignorespaces Text Learning Curve\relax }}{52}{figure.caption.28}
+\contentsline {figure}{\numberline {7.10}{\ignorespaces Text Confusion Matrix\relax }}{52}{figure.caption.29}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
