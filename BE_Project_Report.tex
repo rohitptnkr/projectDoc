@@ -386,7 +386,7 @@ where,
 		\newline
 		\item \textbf{Processing: } Weighted average of probabilities from classifiers which are weighted by a time decaying factor
 		\begin{equation}
-		P_{(k)} = \sum_{c=0}^{2} P_c(k) w_c
+		P_{(k)} = \sum_{c=1}^{3} P_c(k) w_c
 		\end{equation}
 		where,\newline \(w_c\) = w\( - \Delta\)w ;\newline \(\Delta w = d * t\) ; \newline d = decay factor ; \newline w = default maximum weight
 	\end{itemize}
@@ -412,7 +412,6 @@ where,
  
  \item \textbf{Deep Neural Network: } Deep Neural Network (DNN) is an artificial neural network (ANN) with multiple hidden layers between the input and output layers.[9][2] DNNs can model complex non-linear relationships.
  
- \item \textbf{Extreme Learning Machine: } Extreme learning machines are feedforward neural networks for classification, regression, clustering and feature learning with a single layer or multiple layers of hidden nodes, where the parameters of hidden nodes need not be tuned. ELMs are able to produce good generalization performance and learn thousands of times faster than networks trained using backpropagation.
  
  \item \textbf{SVM: } In machine learning, support vector machines are supervised learning models with associated learning algorithms that analyze data used for classification and regression analysis.
  
@@ -514,12 +513,12 @@ where,
 	
 	\item The system will accept three inputs. Out of the three inputs, two will be directly picked up by the camera and microphone on the robot.
 	\item The third input will be given to the system after undergoing a Speech-to-Text conversion.
-	\item The audio input will be approximately -- seconds long in .wav format of size -- Kb
-	\item The video frames will be captured in .jpeg format periodically after every -- seconds.
+	\item The audio input will be approximately 5 seconds long in .wav format.
+	\item The video frames will be captured every second.
 	\item After outputs are displayed, the files will be deleted to address the storage space requirement.
-	\item The system will give the output in the form of an emotion label after successful emotion recogntion.
+	\item The system will give the output in the form of an emotion label after successful emotion recognition.
 	\item However, this label will be from a pre-defined set of emotions.
-	\item For successfull Speech-to-Text conversion, steady internet connection is required.
+	\item For successful Speech-to-Text conversion, steady internet connection is required.
 	\item The system will simply display a string representing the emotion and not generate any response to address that emotion.
 	\item The output will also contain graphs which will indicate the how the emotional state of a person has changed over time.
 	\end{itemize}
@@ -531,7 +530,6 @@ where,
 \item The sensors on the NAO robot must be fully operational
 \item Necessary python environment should be set up (preferably Anaconda)
 \item Necessary python packages installed (pip, numpy, sklearn)
-\item 
 
 \end{itemize}
 \vspace{4mm}
@@ -544,7 +542,6 @@ where,
 \begin{itemize}
 \item Effective emotion recognition in the form periodic emotion labels displayed.
 \item Emotion recognition accuracy maintained by dynamically considering different inputs when one mode becomes unavailable.
-\item 
 
 \end{itemize}
 \vspace{4mm}
