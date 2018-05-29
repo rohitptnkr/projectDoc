@@ -1485,7 +1485,25 @@ Outputs / Snap shots of the results
     
    \end{itemize} 
  \chapter{Conclusion and future scope}
-Write  summary , conclusion and future scope
+	\begin{itemize}
+		\item \textbf{Conclusion}
+		We proposed an emotion recognition system comprising of three modules, tone, speech text and facial feature analysis. We tested the implementation of tone analysis model and speech text analysis model for emotion recognition with promising experimental results. The output emotive state of this emotion recognition system is to be used as reinforcement to determine a response using a neural responding machine. Thus implementing an emotion based reinforcement loop will make interaction with a robot more humane. 
+		\item \textbf{Future Scope}
+		\begin{itemize}
+			\item Multimodal inputs from multiple channels ::
+			Algorithms currently designed assume that the signal per module is single channel. They can be extended to include multiple channels for a better affect-awareness module.
+			\item Using normalization per subject ::
+			The models described assume that no information about the subject is available prior to exposure of the model to the subject. The collected information over a period of time can be used for user adaptation and personalization, for example, to implement gesture dynamics.
+			\item Facial gaze tracking ::
+			Along with facial features, gaze tracking can be implemented to improve emotion recognition.
+			\item Heirarchical training :: 
+			In the tone analysis module, 10\% of the samples with highest energy are utilized for training DNN. Heirarchical learning can be implemented to choose best training samples directly. (Apply training sub-datasets to a sequence of DNNs, during testing stage, the input sample is simultaneously applied to all of these DNNs and decision is aggregated).
+			\item Incorporate temporal dynamics :: 
+			Speed at which a transition can take place is termed as temporal dynamics of a system. The change in emotional state can be studied and incorporated into the recognition mechanism.
+			\item Learning from spectrograms :: 
+			Instead of using handcrafted feaures like MFCC, it should be possible to learn emotional information from spectrogram with techniques like Mel-filter bank. 
+		\end{itemize}
+	\end{itemize}
  {}
 
 \begin{appendices}
