@@ -1,0 +1,5 @@
+# Ignore everything produced by tex conversion
+BE_PROJECT_*
+
+# Except
+!BE_Project_Report.tex
