@@ -1,0 +1,75 @@
+Deployment and installation:
+
+INSTALLATION:
+
+- Ensure you have Python 3.6 installed on a 64-bit Linux distro.
+
+- You will need a Google cloud API key for converting speech to 
+text. Get one from : https://cloud.google.com/docs/authentication/api-keys#creating_an_api_key 
+
+
+****TREE DIAGRAM*************
+- A brief description about the project structure:
+	/envDoc : Contains all configuration files and dependencies.
+	/realTimeModules : Contains implementations of each individual module and also a main process to spawn subprocesses for each module.
+	/static : Contains static code for Flask webapp (mostly JavaScript scripts for real time rendering on webpage). 
+	/templates: Contains HTML webpages for client to view.
+	/flask-live-chart.py : The Flask webapp.
+	
+	realTimeModules/config.json : Config file to set configurable parameters. See the file comments for all the parameters which can be configured.
+
+
+- Install dependencies:
+ statsmodels 8.0  :
+ Python module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration. An extensive list of result statistics are available for each estimator. 
+ 
+pip 9.0.3:
+To install python packages.
+
+Flask 12.2:
+Flask is a micro web framework written in Python, used for hosting the web server.
+
+scikit-learn 19.1:
+Machine learning library used for training and predicting. 
+
+google-auth 1.4.1 : 
+Used for authenticating Google API key.
+
+google-api-core 1.1.2:
+Dependency for google-cloud.
+
+google-cloud-speech 34.0:
+Used for convering speech to text transcripts.
+
+matplotlib 2.0:
+Used for plotting and visualizing data locally on the server.
+
+numpy 1.14.2:
+Used for processing data vectors.
+
+pandas 22.0:
+Used for quick data analysis.
+
+python-speech-features 6.0:
+Used by text module.
+
+Optionally, you can create a virtual environment using the spec file given in /envDoc.
+
+
+DEPLOYMENT : 
+
+- Clone the repository's master branch from https://github.com/EmoRecog/EmoRecWebInterface.git
+
+- Switch to appropriate virtual environment with dependencies installed.
+
+- Run realTimeModules/main.py to start all 3 subprocesses.
+
+- Run flask-live-chart.py to start Flask server.
+
+- You can now access the interface at <IP>:5000 (5000 is the default port).
+
+
+
+
+
+
